@@ -37,7 +37,6 @@ dns.redirect 9.9.9.9
 0.0.0.0 .superfix.com
 0.0.0.0 .qq.com
 0.0.0.0 .helpshift
-0.0.0.0 .google
 0.0.0.0 .igamecj.com
 0.0.0.0 .cnzz.com
 0.0.0.0 .proximabeta.com
