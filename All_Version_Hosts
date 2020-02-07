@@ -46,7 +46,6 @@ dns.redirect 9.9.9.9
 0.0.0.0 .tencent.com
 0.0.0.0 .tencent.ig
 0.0.0.0 .helpshift.com
-0.0.0.0 .twitter.com
 0.0.0.0 .sl-reverse.com
 0.0.0.0 .qcloud.com
 0.0.0.0 .xiaomi.net
