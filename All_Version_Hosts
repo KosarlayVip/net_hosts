@@ -51,7 +51,6 @@ dns.redirect 9.9.9.9
 0.0.0.0 .qcloud.com
 0.0.0.0 .xiaomi.net
 0.0.0.0 .twimg.com
-0.0.0.0 .weiyun.com
 0.0.0.0 .helpshift.com
 0.0.0.0 .anticheat.com
 0.0.0.0 .fbsbx.com
